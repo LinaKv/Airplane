@@ -1,8 +1,20 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Stack:
+JavaScript, Three.JS, react-three/drei, react-three/fiber
 
-Currently, two official plugins are available:
+### How to start:
+npm i
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+npm run dev
+
+### About project:
+This is mini game where you can fly on a plane :fire:
+
+### Screenshots:
+![image_2024-01-15_20-49-16](https://github.com/LinaKv/Airplane/assets/107919324/15958aaa-2301-4b9c-9e56-37714370760d)
+![image_2024-01-15_20-50-42](https://github.com/LinaKv/Airplane/assets/107919324/6e6e4f50-8d63-4c8c-aa2b-1d00853a27f8)
+
+
+
+
