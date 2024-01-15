@@ -1,7 +1,6 @@
-import { useState } from 'react';
 import { SphereEnv } from './SphereEnv';
 import './App.css';
-import { Environment, OrbitControls, PerspectiveCamera } from '@react-three/drei';
+import { Environment, PerspectiveCamera } from '@react-three/drei';
 import { Landscape } from './Landscape';
 import { Airplane } from './Airplane';
 import { Targets } from './Targets';
